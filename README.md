@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Hudson Maciel Miranda</h1>
+<h1 align="center">👋 Olá, eu sou Hudson Miranda</h1>
 
 <p align="center">
   🚀 Tech Lead Delivery | 🤖 Especialista em Automação Inteligente | 👨‍💻 Entusiasta de IA e Tecnologias Emergentes<br>
