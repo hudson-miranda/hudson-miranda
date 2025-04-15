@@ -27,6 +27,7 @@ Atualmente, lidero tecnicamente um CoE com foco em:
 ![AppSheet](https://img.shields.io/badge/AppSheet-00C853?style=flat&logo=google&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
@@ -35,8 +36,8 @@ Atualmente, lidero tecnicamente um CoE com foco em:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hudsonmiranda&show_icons=true&theme=radical&hide=prs"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonmiranda&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hudson-miranda&show_icons=true&theme=radical&hide=prs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudson-miranda&layout=compact&theme=radical"/>
 </p>
 
 ---
