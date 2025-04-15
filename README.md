@@ -23,6 +23,7 @@ Atualmente, lidero tecnicamente um CoE com foco em:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF6F00?style=flat&logo=automationanywhere&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-F48C06?style=flat&logo=uipath&logoColor=white)
 ![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=flat&logo=microsoftpowerplatform&logoColor=white)
 ![AppSheet](https://img.shields.io/badge/AppSheet-00C853?style=flat&logo=google&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -30,6 +31,11 @@ Atualmente, lidero tecnicamente um CoE com foco em:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-5436DA?style=flat&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
 
 ---
 
