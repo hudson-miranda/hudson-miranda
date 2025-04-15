@@ -36,16 +36,6 @@ Atualmente, lidero tecnicamente um CoE com foco em:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hudson-miranda&show_icons=true&theme=radical&hide=prs"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudson-miranda&layout=compact&theme=radical"/>
-</p>
-
 ---
 
 ## 🌍 Conecte-se comigo
