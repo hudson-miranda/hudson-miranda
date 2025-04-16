@@ -42,7 +42,6 @@ Atualmente, lidero tecnicamente um CoE com foco em:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hudson-miranda&show_icons=true&theme=radical&hide=prs"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudson-miranda&layout=compact&theme=radical"/>
 </p>
 
 ---
