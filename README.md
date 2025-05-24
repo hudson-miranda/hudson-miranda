@@ -10,13 +10,6 @@
 
 Apaixonado por **tecnologia**, com experiência em **automação de processos**, **desenvolvimento de soluções inteligentes** e **inovação digital**.
 
-Atualmente, lidero tecnicamente um CoE com foco em:
-- 🧩 Automação de processos com **Automation Anywhere**
-- 🧠 Integração de **AI Agents**
-- 📱 Desenvolvimento de aplicações **Google Appsheet** e **Power Platform**
-- 📊 Gestão de entregas, métricas e qualidade 
-- 🧪 Frameworks técnicos, boas práticas e governança
-
 ---
 
 ## 🧰 Tecnologias & Ferramentas
