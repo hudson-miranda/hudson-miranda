@@ -1,5 +1,7 @@
-<h1 align="center">👋 Hi, I'm Hudson Miranda</h1>
-<h3 align="center">🚀 Tech Lead • 🤖 Intelligent Automation Specialist • 🧠 AI & Emerging Tech Enthusiast</h3>
+<h1 align="center">👋 Hudson Miranda</h1>
+<h3 align="center">
+  Tech Lead • Intelligent Automation & AI • SaaS & Digital Products
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hmmiranda/" target="_blank">
@@ -13,39 +15,44 @@
 
 ## 🇧🇷 Sobre mim
 
-Sou **Tech Lead** com forte atuação em **Automação Inteligente, IA aplicada, RPA, SaaS e Arquitetura de Soluções**.  
-Atuo conectando **negócio, tecnologia e escala**, liderando times e construindo produtos digitais robustos.
+Sou **Tech Lead** com atuação sólida em **Automação Inteligente, IA aplicada, RPA corporativo e Arquitetura de Soluções**.  
+Trabalho conectando **negócio, tecnologia e escala**, liderando times técnicos e construindo **produtos digitais robustos e sustentáveis**.
 
-- 🧩 Automação corporativa & IA
-- 🏗️ Arquitetura e governança técnica
-- 🚀 Produtos SaaS e inovação
-- 🤝 Atuação com stakeholders, clientes e times técnicos
-
----
-
-## 🇺🇸 About Me
-
-I'm a **Tech Lead** specialized in **Intelligent Automation, Applied AI, RPA, SaaS and Solution Architecture**.  
-I work at the intersection of **business, technology and scale**, leading teams and building high-impact digital products.
+Tenho experiência em:
+- 🧠 Automação de processos em larga escala
+- 🤖 IA aplicada a operações e produtos
+- 🏗️ Arquitetura, governança e qualidade técnica
+- 🚀 Construção de SaaS e plataformas digitais
+- 🤝 Interface entre times técnicos, negócio e liderança
 
 ---
 
-## 📊 GitHub Stats
+## 🇺🇸 About me
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hudson-miranda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" 
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudson-miranda&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="160"
-  />
-</p>
+I’m a **Tech Lead** specialized in **Intelligent Automation, Applied AI, RPA and Solution Architecture**.  
+I operate at the intersection of **business, technology and scale**, leading engineering teams and building **robust, scalable digital products**.
+
+My experience includes:
+- 🧠 Large-scale process automation
+- 🤖 AI applied to operations and products
+- 🏗️ Architecture, governance and engineering quality
+- 🚀 SaaS and digital platform development
+- 🤝 Strong communication with stakeholders and leadership
 
 ---
 
-## 🧠 Core Skills & Stack
+## 🧠 Areas of Expertise
+
+- Intelligent Automation (RPA + AI)
+- Applied Artificial Intelligence
+- Backend & API Architecture
+- SaaS Products & Platforms
+- Technical Leadership & Governance
+- Digital Transformation
+
+---
+
+## 🧰 Technology Stack
 
 ### 🤖 Automation & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -53,7 +60,7 @@ I work at the intersection of **business, technology and scale**, leading teams 
 ![UiPath](https://img.shields.io/badge/UiPath-F48C06?style=flat)
 ![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=flat)
 
-### 🧩 Backend & SaaS
+### 🧩 Backend & Architecture
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -70,9 +77,9 @@ I work at the intersection of **business, technology and scale**, leading teams 
 ## 🤝 Open to
 
 - 💼 Tech Lead / Staff / Principal roles
-- 🧠 AI & Automation consulting
+- 🤖 Automation & AI consulting
 - 🚀 SaaS partnerships & ventures
-- 💡 Innovation & digital transformation projects
+- 🧠 Digital transformation initiatives
 
 ---
 
