@@ -10,6 +10,27 @@
 
 Apaixonado por **tecnologia**, com experiência em **automação de processos**, **desenvolvimento de soluções inteligentes** e **inovação digital**.
 
+--
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hmmiranda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmiranda&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hmmiranda&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hmmiranda&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmmiranda&theme=tokyo-night&hide_border=true" />
+</p>
+
 ---
 
 ## 🧰 Tecnologias & Ferramentas
