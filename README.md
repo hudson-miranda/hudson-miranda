@@ -74,15 +74,6 @@ My experience includes:
 
 ---
 
-## 🤝 Open to
-
-- 💼 Tech Lead / Staff / Principal roles
-- 🤖 Automation & AI consulting
-- 🚀 SaaS partnerships & ventures
-- 🧠 Digital transformation initiatives
-
----
-
 <p align="center">
   <i>“Automate what is repetitive. Empower what is human.”</i>
 </p>
